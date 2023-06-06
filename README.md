@@ -1,7 +1,6 @@
 ## Concept
 
-This template is meant to serve as a foundation for every P2/P3 following the React-Express-MySQL stack, as learned in Wild Code School.
-It's pre-configured with a set of tools which'll help students produce industry-quality and easier-to-maintain code, while staying as simple as possible to use.
+Développement d'une application web en React, exploitant une API publique. Si vous vous demandiez quoi faire ce soir ou le week-end prochain, l'application web recense les événements culturels à venir dans la région des Pays de la Loire.
 
 ## Setup & Use
 
